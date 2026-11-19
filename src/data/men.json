@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Leather Loafers",
+    "price": 65000,
+    "category": "Loafers",
+    "image": "men-01.jpg",
+    "images": [
+      "men-01.jpg",
+      "men-01.jpg",
+      "men-01.jpg",
+      "men-01.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 2,
+    "name": "Urban Leather Sneakers",
+    "price": 72000,
+    "category": "Sneakers",
+    "image": "men-02.jpg",
+    "images": [
+      "men-02.jpg",
+      "men-02.jpg",
+      "men-02.jpg",
+      "men-02.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 3,
+    "name": "Executive Oxford Shoes",
+    "price": 85000,
+    "category": "Formal",
+    "image": "men-03.jpg",
+    "images": [
+      "men-03.jpg",
+      "men-03.jpg",
+      "men-03.jpg",
+      "men-03.jpg"
+    ],
+    "isNew": false,
+    "isSale": false
+  },
+  {
+    "id": 4,
+    "name": "Premium Casual Sneakers",
+    "price": 68000,
+    "category": "Sneakers",
+    "image": "men-04.jpg",
+    "images": [
+      "men-04.jpg",
+      "men-04.jpg",
+      "men-04.jpg",
+      "men-04.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 5,
+    "name": "Modern Chelsea Boots",
+    "price": 95000,
+    "category": "Boots",
+    "image": "men-05.jpg",
+    "images": [
+      "men-05.jpg",
+      "men-05.jpg",
+      "men-05.jpg",
+      "men-05.jpg"
+    ],
+    "isNew": false,
+    "isSale": false
+  },
+  {
+    "id": 6,
+    "name": "Classic Derby Shoes",
+    "price": 78000,
+    "category": "Formal",
+    "image": "men-06.jpg",
+    "images": [
+      "men-06.jpg",
+      "men-06.jpg",
+      "men-06.jpg",
+      "men-06.jpg"
+    ],
+    "isNew": false,
+    "isSale": true,
+    "oldPrice": 90000
+  },
+  {
+    "id": 7,
+    "name": "Minimal White Sneakers",
+    "price": 60000,
+    "category": "Sneakers",
+    "image": "men-07.jpg",
+    "images": [
+      "men-07.jpg",
+      "men-07.jpg",
+      "men-07.jpg",
+      "men-07.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 8,
+    "name": "Suede Casual Loafers",
+    "price": 70000,
+    "category": "Loafers",
+    "image": "men-08.jpg",
+    "images": [
+      "men-08.jpg",
+      "men-08.jpg",
+      "men-08.jpg",
+      "men-08.jpg"
+    ],
+    "isNew": false,
+    "isSale": false
+  },
+  {
+    "id": 9,
+    "name": "Signature Leather Boots",
+    "price": 98000,
+    "category": "Boots",
+    "image": "men-09.jpg",
+    "images": [
+      "men-09.jpg",
+      "men-09.jpg",
+      "men-09.jpg",
+      "men-09.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 10,
+    "name": "Street Style Trainers",
+    "price": 58000,
+    "category": "Sneakers",
+    "image": "men-10.jpg",
+    "images": [
+      "men-10.jpg",
+      "men-10.jpg",
+      "men-10.jpg",
+      "men-10.jpg"
+    ],
+    "isNew": false,
+    "isSale": true,
+    "oldPrice": 70000
+  },
+  {
+    "id": 11,
+    "name": "Premium Business Shoes",
+    "price": 88000,
+    "category": "Formal",
+    "image": "men-11.jpg",
+    "images": [
+      "men-11.jpg",
+      "men-11.jpg",
+      "men-11.jpg",
+      "men-11.jpg"
+    ],
+    "isNew": false,
+    "isSale": false
+  },
+  {
+    "id": 12,
+    "name": "Everyday Comfort Sneakers",
+    "price": 55000,
+    "category": "Sneakers",
+    "image": "men-12.jpg",
+    "images": [
+      "men-12.jpg",
+      "men-12.jpg",
+      "men-12.jpg",
+      "men-12.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 13,
+    "name": "Luxury Penny Loafers",
+    "price": 82000,
+    "category": "Loafers",
+    "image": "men-13.jpg",
+    "images": [
+      "men-13.jpg",
+      "men-13.jpg",
+      "men-13.jpg",
+      "men-13.jpg"
+    ],
+    "isNew": false,
+    "isSale": false
+  },
+  {
+    "id": 14,
+    "name": "Rugged Chelsea Boots",
+    "price": 92000,
+    "category": "Boots",
+    "image": "men-14.jpg",
+    "images": [
+      "men-14.jpg",
+      "men-14.jpg",
+      "men-14.jpg",
+      "men-14.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 15,
+    "name": "Classic Black Formal Shoes",
+    "price": 75000,
+    "category": "Formal",
+    "image": "men-15.jpg",
+    "images": [
+      "men-15.jpg",
+      "men-15.jpg",
+      "men-15.jpg",
+      "men-15.jpg"
+    ],
+    "isNew": false,
+    "isSale": true,
+    "oldPrice": 88000
+  },
+  {
+    "id": 16,
+    "name": "Contemporary Leather Sneakers",
+    "price": 73000,
+    "category": "Sneakers",
+    "image": "men-16.jpg",
+    "images": [
+      "men-16.jpg",
+      "men-16.jpg",
+      "men-16.jpg",
+      "men-16.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  }
+]

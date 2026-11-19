@@ -1,0 +1,365 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  color: #171717;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+
+/* payment Page */
+.payment-page {
+  padding: 80px 0;
+}
+
+.payment-layout {
+  display: grid;
+  grid-template-columns: 1fr 350px;
+  gap: 50px;
+  align-items: start;
+}
+
+.payment-form,
+.payment-summary {
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+  padding: 30px;
+}
+
+.payment-form h2,
+.payment-summary h2 {
+  margin-bottom: 25px;
+  font-size: 20px;
+}
+
+.payment-options {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.payment-option {
+  flex: 1;
+  border: 1px solid #dddddd;
+  padding: 15px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.payment-option input {
+  accent-color: #000000;
+}
+
+
+.free-tag,
+.discount-value {
+  color: #20a899 !important;
+}
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 13px 15px;
+  border: 1px solid #dddddd;
+  outline: none;
+  font-size: 14px;
+}
+
+.form-group input:focus {
+  border-color: #111111;
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+
+.transfer-info {
+  padding: 20px;
+  background: #f7f7f7;
+  margin-bottom: 25px;
+}
+
+.transfer-info h3 {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.transfer-info p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #555555;
+}
+
+.form-error {
+  margin-bottom: 15px;
+  padding: 12px 15px;
+  background: #f5f5f5;
+  color: #555555;
+  font-size: 13px;
+}
+
+.payment-button {
+  width: 100%;
+  border: none;
+  background: #111111;
+  color: #ffffff;
+  padding: 15px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.payment-button:hover {
+  background: #333333;
+}
+
+.payment-summary {
+  position: sticky;
+  top: 110px;
+}
+
+.summary-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 18px;
+  font-size: 14px;
+}
+
+.summary-divider {
+  height: 1px;
+  background: #eeeeee;
+  margin: 20px 0;
+}
+
+.summary-row.total {
+  font-size: 17px;
+}
+
+@media (max-width: 991px) {
+  .payment-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .payment-summary {
+    position: static;
+  }
+}
+
+@media (max-width: 576px) {
+  .payment-page {
+    padding: 50px 0;
+  }
+
+  .payment-form,
+  .payment-summary {
+    padding: 20px;
+  }
+
+  .payment-options {
+    flex-direction: column;
+  }
+
+  .form-row {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+}
+
+
+
+
+/* =========================
+   ORDER SUCCESS PAGE
+========================= */
+
+.order-success-page {
+  padding: 100px 0;
+}
+
+.success-card {
+  max-width: 650px;
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid #eeeeee;
+  padding: 60px 40px;
+}
+
+.success-icon {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto 25px;
+  border-radius: 50%;
+  background: #111111;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+}
+
+.success-label {
+  font-size: 12px;
+  letter-spacing: 2px;
+  margin-bottom: 12px;
+}
+
+.success-card h1 {
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+
+.success-message {
+  color: #666666;
+  line-height: 1.7;
+  margin-bottom: 35px;
+}
+
+.order-details {
+  border-top: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
+  padding: 20px 0;
+  margin-bottom: 25px;
+}
+
+.detail-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 10px 0;
+  font-size: 14px;
+}
+
+.delivery-message {
+  color: #666666;
+  font-size: 14px;
+  line-height: 1.7;
+  margin-bottom: 30px;
+}
+
+.continue-shopping-button {
+  border: none;
+  background: #111111;
+  color: #ffffff;
+  padding: 15px 30px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.continue-shopping-button:hover {
+  background: #333333;
+}
+
+
+
+/* =========================
+   DELIVERY DETAILS
+========================= */
+.delivery-details {
+  margin-top: 25px;
+  padding: 24px 28px;
+
+  background: #fafaf8;
+  border: 1px solid #eeeeee;
+  border-radius: 12px;
+
+  text-align: left;
+}
+
+.delivery-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+
+  color: #20a899;
+
+  margin-bottom: 16px;
+}
+
+.delivery-title i {
+  font-size: 16px;
+}
+
+.delivery-name {
+  font-size: 16px;
+  color: #111111;
+  margin-bottom: 12px;
+}
+
+.delivery-line {
+  font-size: 14px;
+  line-height: 1.7;
+  color: #555555;
+  margin: 0;
+}
+
+.delivery-phone {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 12px;
+  color: #111111;
+  font-weight: 600;
+}
+
+.delivery-phone i {
+  color: #20a899;
+}
+
+@media (max-width: 576px) {
+  .order-success-page {
+    padding: 60px 0;
+  }
+
+  .success-card {
+    padding: 40px 20px;
+  }
+
+  .success-card h1 {
+    font-size: 26px;
+  }
+
+  .detail-row {
+    font-size: 13px;
+  }
+}
+
+
+
+
+

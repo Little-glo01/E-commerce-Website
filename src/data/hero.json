@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "image": "men-shoe.jpg",
+    "number": "01",
+    "category": "MEN'S COLLECTION",
+    "title": "STEP INTO YOUR STYLE",
+    "description": "Discover timeless footwear designed to make every step count.",
+    "button": "SHOP MEN",
+    "link": "/men",
+    "theme": "dark"
+  },
+  {
+    "id": 2,
+    "image": "hero-sale.jpg",
+    "number": "02",
+    "category": "FORMAL COLLECTION",
+    "title": "ELEVATE YOUR LOOK",
+    "description": "Refined footwear crafted for moments that deserve something special.",
+    "button": "EXPLORE COLLECTION",
+    "link": "/men",
+    "theme": "dark"
+  },
+  {
+    "id": 3,
+    "image": "women-shoe.jpg",
+    "number": "03",
+    "category": "WOMEN'S COLLECTION",
+    "title": "WALK WITH CONFIDENCE",
+    "description": "Elegant footwear designed to bring confidence to every step.",
+    "button": "SHOP WOMEN",
+    "link": "/women",
+    "theme": "light"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "name": "Elegant Leather Heels",
+    "price": 68000,
+    "category": "Heels",
+    "image": "women-01.jpg",
+    "images": [
+      "women-01.jpg",
+      "women-01.jpg",
+      "women-01.jpg",
+      "women-01.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 2,
+    "name": "Classic Pointed Pumps",
+    "price": 62000,
+    "category": "Heels",
+    "image": "women-02.jpg",
+    "images": [
+      "women-02.jpg",
+      "women-02.jpg",
+      "women-02.jpg",
+      "women-02.jpg"
+    ],
+    "isNew": false,
+    "isSale": false
+  },
+  {
+    "id": 3,
+    "name": "Modern Fashion Sneakers",
+    "price": 58000,
+    "category": "Sneakers",
+    "image": "women-03.jpg",
+    "images": [
+      "women-03.jpg",
+      "women-03.jpg",
+      "women-03.jpg",
+      "women-03.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 4,
+    "name": "Luxury Strappy Heels",
+    "price": 75000,
+    "category": "Heels",
+    "image": "women-04.jpg",
+    "images": [
+      "women-04.jpg",
+      "women-04.jpg",
+      "women-04.jpg",
+      "women-04.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 5,
+    "name": "Classic Ballet Flats",
+    "price": 48000,
+    "category": "Flats",
+    "image": "women-05.jpg",
+    "images": [
+      "women-05.jpg",
+      "women-05.jpg",
+      "women-05.jpg",
+      "women-05.jpg"
+    ],
+    "isNew": false,
+    "isSale": false
+  },
+  {
+    "id": 6,
+    "name": "Premium Ankle Boots",
+    "price": 88000,
+    "category": "Boots",
+    "image": "women-06.jpg",
+    "images": [
+      "women-06.jpg",
+      "women-06.jpg",
+      "women-06.jpg",
+      "women-06.jpg"
+    ],
+    "isNew": false,
+    "isSale": true,
+    "oldPrice": 100000
+  },
+  {
+    "id": 7,
+    "name": "Minimal White Sneakers",
+    "price": 60000,
+    "category": "Sneakers",
+    "image": "women-07.jpg",
+    "images": [
+      "women-07.jpg",
+      "women-07.jpg",
+      "women-07.jpg",
+      "women-07.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 8,
+    "name": "Elegant Suede Loafers",
+    "price": 65000,
+    "category": "Loafers",
+    "image": "women-08.jpg",
+    "images": [
+      "women-08.jpg",
+      "women-08.jpg",
+      "women-08.jpg",
+      "women-08.jpg"
+    ],
+    "isNew": false,
+    "isSale": false
+  },
+  {
+    "id": 9,
+    "name": "Statement Block Heels",
+    "price": 72000,
+    "category": "Heels",
+    "image": "women-09.jpg",
+    "images": [
+      "women-09.jpg",
+      "women-09.jpg",
+      "women-09.jpg",
+      "women-09.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 10,
+    "name": "Everyday Slip-On Sneakers",
+    "price": 52000,
+    "category": "Sneakers",
+    "image": "women-10.jpg",
+    "images": [
+      "women-10.jpg",
+      "women-10.jpg",
+      "women-10.jpg",
+      "women-10.jpg"
+    ],
+    "isNew": false,
+    "isSale": true,
+    "oldPrice": 65000
+  },
+  {
+    "id": 11,
+    "name": "Classic Leather Flats",
+    "price": 50000,
+    "category": "Flats",
+    "image": "women-11.jpg",
+    "images": [
+      "women-11.jpg",
+      "women-11.jpg",
+      "women-11.jpg",
+      "women-11.jpg"
+    ],
+    "isNew": false,
+    "isSale": false
+  },
+  {
+    "id": 12,
+    "name": "Elegant Evening Heels",
+    "price": 79000,
+    "category": "Heels",
+    "image": "women-12.jpg",
+    "images": [
+      "women-12.jpg",
+      "women-12.jpg",
+      "women-12.jpg",
+      "women-12.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 13,
+    "name": "Luxury Knee High Boots",
+    "price": 105000,
+    "category": "Boots",
+    "image": "women-13.jpg",
+    "images": [
+      "women-13.jpg",
+      "women-13.jpg",
+      "women-13.jpg",
+      "women-13.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  },
+  {
+    "id": 14,
+    "name": "Casual Platform Sneakers",
+    "price": 63000,
+    "category": "Sneakers",
+    "image": "women-14.jpg",
+    "images": [
+      "women-14.jpg",
+      "women-14.jpg",
+      "women-14.jpg",
+      "women-14.jpg"
+    ],
+    "isNew": false,
+    "isSale": false
+  },
+  {
+    "id": 15,
+    "name": "Classic Suede Pumps",
+    "price": 70000,
+    "category": "Heels",
+    "image": "women-15.jpg",
+    "images": [
+      "women-15.jpg",
+      "women-15.jpg",
+      "women-15.jpg",
+      "women-15.jpg"
+    ],
+    "isNew": false,
+    "isSale": true,
+    "oldPrice": 82000
+  },
+  {
+    "id": 16,
+    "name": "Modern Leather Mules",
+    "price": 59000,
+    "category": "Mules",
+    "image": "women-16.jpg",
+    "images": [
+      "women-16.jpg",
+      "women-16.jpg",
+      "women-16.jpg",
+      "women-16.jpg"
+    ],
+    "isNew": true,
+    "isSale": false
+  }
+]
